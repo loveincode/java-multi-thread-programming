@@ -27,7 +27,6 @@ public class Test1 {
 		Date runDate1 = calendarRef.getTime();
 		Timer timer = new Timer();
 		timer.schedule(task,runDate1,3000);
-		
 	} 
 	
 }
