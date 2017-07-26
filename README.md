@@ -1,7 +1,7 @@
 # Java-Multi-thread-Programming
 
-[![GitHub stars](https://img.shields.io/github/stars/loveincode/Java-Multi-thread-Programming.svg)](https://github.com/loveincode/Java-Multi-thread-Programming)
-[![GitHub forks](https://img.shields.io/github/forks/loveincode/Java-Multi-thread-Programming.svg)](https://github.com/loveincode/Java-Multi-thread-Programming)
+[![GitHub stars](https://img.shields.io/github/stars/loveincode/Java-Multi-thread-Programming.svg?style=social&label=Stars)](https://github.com/loveincode/Java-Multi-thread-Programming)
+[![GitHub forks](https://img.shields.io/github/forks/loveincode/Java-Multi-thread-Programming.svg?style=social&label=Forks)](https://github.com/loveincode/Java-Multi-thread-Programming)
 
 ![](https://raw.githubusercontent.com/loveincode/Java-Multi-thread-Programming/master/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF.jpg)
 (高洪严 著 机械工业出版社)
