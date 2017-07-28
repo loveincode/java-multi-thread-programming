@@ -4,7 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/loveincode/Java-Multi-thread-Programming.svg?style=social&label=Forks)](https://github.com/loveincode/Java-Multi-thread-Programming)
 
 ![](https://raw.githubusercontent.com/loveincode/Java-Multi-thread-Programming/master/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF.jpg)
-[PDF下载](https://github.com/loveincode/Java-Multi-thread-Programming/blob/master/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF.pdf) 
+[PDF下载](https://github.com/loveincode/Java-Multi-thread-Programming/raw/master/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF.pdf) 
 (高洪严 著 机械工业出版社)
 Java多线程编程核心技术 所有代码 正在更新中
 ## 目录结构说明：
