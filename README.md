@@ -3,6 +3,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/loveincode/Java-Multi-thread-Programming.svg?style=social&label=Stars)](https://github.com/loveincode/Java-Multi-thread-Programming)
 [![GitHub forks](https://img.shields.io/github/forks/loveincode/Java-Multi-thread-Programming.svg?style=social&label=Forks)](https://github.com/loveincode/Java-Multi-thread-Programming)
 
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+[![996ICU Licence](<https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg>)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
 ![](https://raw.githubusercontent.com/loveincode/Java-Multi-thread-Programming/master/src/main/resources/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF.jpg)
 [PDF下载](https://github.com/loveincode/Java-Multi-thread-Programming/raw/master/src/main/resources/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF.pdf) 
 
